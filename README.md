@@ -2,6 +2,6 @@
 This repo consists of staple models I built for future use with public dummy datasets. A good way to sharpen my skills and save time in future projects. Cheers
 
 ## Unsupervised Models
-### Decision Tree Classifier
+### [Decision Tree Classifier] ((Supervised Models)DecisionTreeClass.ipynb)
 - Libraries/Frameworks: Sklearn
  
