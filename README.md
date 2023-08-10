@@ -1,4 +1,4 @@
-# Handy_Works
+# Handy_Works 🧰
 This repo consists of staple models I built for future use with public dummy datasets. These models are predominantly in python (jupyter notebooks) with varying frameworks. A good way to sharpen my skills and save time in future projects. 
 
 Cheers ☕
